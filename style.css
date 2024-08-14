@@ -132,17 +132,6 @@ body {
     background-color: #333; /* Slightly lighter black on hover */
 }
 
-/* Mobile Media Query */
-@media screen and (max-width: 600px) {
-    .work-container {
-        flex-direction: column;
-    }
-
-    .work-item {
-        width: 100%;
-        height: auto;
-    }
-}
 
 /* Footer styling */
 .footer {
